@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-deck",
+  "description": "Deck component",
+  "styles": [
+    "style.css"
+  ],
+  "dependencies": {
+    "apily-emitter": "git://github.com/npmcomponent/apily-emitter.git"
+  },
+  "license": "MIT"
+}

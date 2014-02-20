@@ -2,7 +2,7 @@
  * Dependencies
  */
 
-var Emitter = require('emitter');
+var Emitter = require('apily-emitter');
 
 /**
  * Expose `Deck`
